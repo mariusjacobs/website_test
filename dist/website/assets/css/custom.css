@@ -1,0 +1,29 @@
+.bg-gradient-concrete:before {
+  background-color: #95a5a6;
+  background: -webkit-linear-gradient(45deg, #95a5a6 0%, rgba(149, 165, 166, .3) 100%);
+  background: linear-gradient(45deg, #95a5a6 0%, rgba(149, 165, 166, .3) 100%);
+}
+
+.bg-gradient-brown:before {
+  background-color: #795548;
+  background: -webkit-linear-gradient(45deg, #795548 0%, rgba(121, 85, 72, .3) 100%);
+  background: linear-gradient(45deg, #795548 0%, rgba(121, 85, 72, .3) 100%);
+}
+
+.bg-gradient-emerald:before {
+  background-color: #2ecc71;
+  background: -webkit-linear-gradient(45deg, #2ecc71 0%, rgba(46, 204, 113, .3) 100%);
+  background: linear-gradient(45deg, #2ecc71 0%, rgba(46, 204, 113, .3) 100%);
+}
+
+.bg-gradient-deep-purple:before {
+  background-color: #673ab7;
+  background: -webkit-linear-gradient(45deg, #673ab7 0%, rgba(103, 58, 183, .3) 100%);
+  background: linear-gradient(45deg, #673ab7 0%, rgba(103, 58, 183, .3) 100%);
+}
+
+.bg-gradient-blue1:before {
+  background-color: #4169AA;
+  background: -webkit-linear-gradient(45deg, #4169AA 0%, rgba(103, 58, 183, .3) 100%);
+  background: linear-gradient(45deg, #4169AA 0%, rgba(103, 58, 183, .3) 100%);
+}
